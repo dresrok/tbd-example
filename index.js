@@ -3,3 +3,4 @@ console.log("Iteration conflicts!");
 console.log("It allows for fast iteration!");
 console.log("Not in cherry pick");
 console.log("Billboard");
+console.log("Loyaly");
