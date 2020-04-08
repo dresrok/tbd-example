@@ -4,5 +4,4 @@ console.log("It allows for fast iteration!");
 console.log("Not in cherry pick");
 console.log("Billboard");
 console.log("Loyalty");
-console.log("Loyaly");
 console.log("Shopping Cart");
